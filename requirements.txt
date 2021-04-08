@@ -6,7 +6,7 @@ celery==4.4.2
 certifi==2020.4.5.1
 chardet==3.0.4
 coverage==5.1
-Django==3.0.5
+Django==3.0.14
 django-debug-toolbar==2.2
 django-extra-views==0.13.0
 django-widget-tweaks==1.4.8
